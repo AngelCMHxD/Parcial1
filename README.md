@@ -5,7 +5,7 @@ Diagrama UML en `UML.jpeg`
 
 ---
 
-Main recibe los argumentos: \<genero> \<edad> \<peso> \<altura>
+Main recibe los argumentos, en orden: \<genero> \<edad> \<peso> \<altura>
 
 Donde:
 - Genero puede ser `h` para hombre o `m` para mujer
